@@ -1,14 +1,14 @@
 {
-  "name": "change-case",
-  "main": "./lib/change-case",
-  "version": "0.2.0",
-  "description": "Change the case of selected text using node-change-case",
-  "repository": "https://github.com/robhurring/atom-change-case.git",
+  "name": "speech-to-code",
+  "main": "./lib/speech-to-code",
+  "version": "0.1.0",
+  "description": "help with speech to code",
+  "repository": "https://github.com/jedahan/speech-to-code.git",
   "license": "MIT",
   "engines": {
-    "atom": ">0.50.0"
+    "atom": ">0.80.0"
   },
   "dependencies": {
-    "change-case": "~1.0.6"
+    "change-case": "~2.0.1"
   }
 }
