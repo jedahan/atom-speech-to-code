@@ -1,0 +1,4 @@
+'.source.c, .source.objc, .source.c\\+\\+, .source.objc\\+\\+':
+  '#Include':
+    'prefix': 'Include'
+    'body': '#include <${1:.h}>'
