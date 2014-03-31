@@ -1,9 +1,9 @@
 {
-  "name": "speech-to-code",
+  "name": "atom-speech-to-code",
   "main": "./lib/speech-to-code",
   "version": "0.1.0",
   "description": "help with speech to code",
-  "repository": "https://github.com/jedahan/speech-to-code.git",
+  "repository": "https://github.com/jedahan/atom-speech-to-code.git",
   "license": "MIT",
   "engines": {
     "atom": ">0.80.0"
