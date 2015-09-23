@@ -1,56 +1,63 @@
 # Speech to code
 
-speak some c
+This will turn every word into lowercase, which can help with coding in some languages when using certain speech-to-text software. Use in conjunction with atom-code-poetry to auto-replace some words for a performance.
 
-Apple Dictation:
+### Apple Dictation
 
-Punctuation 	Result
-apostrophe 	‘
-open bracket 	[
-close bracket 	]
-open parenthesis 	(
-close parenthesis 	)
-open brace 	{
-close brace 	}
-open angle bracket 	<
-close angle bracket 	>
-colon 	:
-comma 	,
-dash 	-
-ellipsis 	…
-exclamation mark 	!
-hyphen 	–
-period / point / dot / full stop 	.
-question mark 	?
-quote 	"
-end quote 	"
-begin single quote 	'
-end single quote 	'
-semicolon 	;
-
-
-Typography 	Result
-ampersand 	&
-asterisk 	*
-at sign 	@
-backslash 	\
-forward slash 	/
-caret 	^
-center dot 	·
-large center dot 	•
-degree sign 	°
-hashtag / pound sign 	#
-percent sign 	%
-underscore 	_
-vertical bar 	|
+  Punctuation         | Result
+  --------------------|-------
+  apostrophe          | ‘
+  open bracket        | [
+  close bracket       | ]
+  open parenthesis    | (
+  close parenthesis   | )
+  open brace          | {
+  close brace         | }
+  open angle bracket  | <
+  close angle bracket | >
+  colon               | :
+  comma               | ,
+  dash                | -
+  ellipsis            | …
+  exclamation mark    | !
+  hyphen              | –
+  period              | .
+  point               | .
+  dot                 | .
+  full stop           | .
+  question mark       | ?
+  quote               | "
+  end quote           | "
+  begin single quote  | '
+  end single quote    | '
+  semicolon           | ;
 
 
-Capitalization 	Result
-caps on 	formats next phrase in Title Case
-caps off 	resumes default letter case
-all caps 	formats next word in ALL CAPS
-all caps on 	proceeds in ALL CAPS
-all caps off 	resumes default letter case
+  Typography       | Result
+  -----------------|-------
+  ampersand        | &
+  asterisk         | *
+  at sign          | @
+  backslash        | \
+  forward slash    | /
+  caret            | ^
+  center dot       | ·
+  large center dot | •
+  degree sign      | °
+  hashtag          | #
+  pound sign       | #
+  percent sign     | %
+  underscore       | _
+  vertical bar     | |
+
+
+  Capitalization |	Result
+  ---------------|--------
+  caps on 	     | formats next phrase in Title Case
+  caps off 	     | resumes default letter case
+  all caps 	     | formats next word in ALL CAPS
+  all caps on 	 | proceeds in ALL CAPS
+  all caps off 	 | resumes default letter case
 
 
 Currency 	Result
