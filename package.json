@@ -1,14 +1,10 @@
 {
   "name": "atom-speech-to-code",
-  "main": "./lib/speech-to-code",
-  "version": "0.3.0",
-  "description": "help with speech to code",
+  "version": "0.4.0",
+  "description": "Auto-lowercase all words, helps with speech-to-text",
   "repository": "https://github.com/jedahan/atom-speech-to-code.git",
   "license": "MIT",
   "engines": {
-    "atom": ">0.80.0"
-  },
-  "dependencies": {
-    "change-case": "~2.0.1"
+    "atom": ">1.0.15"
   }
 }
