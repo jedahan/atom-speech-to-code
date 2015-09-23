@@ -1,6 +1,6 @@
 {
   "name": "atom-speech-to-code",
-  "version": "0.4.2",
+  "version": "0.4.3",
   "description": "Auto-lowercase all words, helps with speech-to-text",
   "repository": "https://github.com/jedahan/atom-speech-to-code.git",
   "license": "MIT",
